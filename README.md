@@ -4,3 +4,15 @@
 
 ***Solutions to the problems in HackerRank Problem Solving using the GO programming language***
 
+## List Solutions
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Solve%20Me%20First/main.go"><strong>Solve Me First</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Simple%20Array%20Sum/main.go"><strong>Simple Array Sum</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Compare%20the%20Triplets/main.go"><strong>Compare the Triplets</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/A%20Very%20Big%20Sum/main.go"><strong>A Very Big Sum</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Diagonal%20Difference/main.go"><strong>Diagonal Difference</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Plus%20Minus/main.go"><strong>Plus Minus</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Staircase/main.go"><strong>Staircase</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Mini-Max%20Sum/main.go"><strong>Mini-Max Sum</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Birthday%20Cake%20Candles/main.go"><strong>Birtday Cake Candles</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Time%20Conversion/main.go"><strong>Time Conversion</strong></a>
+- <a href="https://github.com/abid313/HackerRank---Problem-Solving/blob/main/Solve%20Algorithms/Apple%20and%20Orange/main.go"><strong>Apple and Orange</strong></a>
